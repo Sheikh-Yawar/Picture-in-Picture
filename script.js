@@ -13,7 +13,7 @@ const selectMediaStream=async function(){
     }
     catch(err)
     {
-    alert("An Unexpected error has occured");
+    alert("You need to select a Source!");
     }
 }
 
